@@ -1,0 +1,21 @@
+.img-profile{
+	width: 150px;
+    height: 150px;
+}
+.bg-custom{
+	background: #f2f2f5;
+}
+.bg-custom01{
+	background: #111;
+}
+
+.border-tb-color{
+ 	border-top: 2px solid #ddd;
+ 	border-bottom: 2px solid #ddd;
+}
+.border-b{
+	border-bottom: 2px solid #fff;
+}
+.text-white{
+	color: #fff;
+}
