@@ -19,3 +19,13 @@
 .text-white{
 	color: #fff;
 }
+.margin{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.margin-t{
+	margin-top: 20px
+}
+.font-family{
+	font-family: 'Indie Flower', cursive;
+}
